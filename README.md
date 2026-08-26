@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║              IBTISAM ADNAN · GITHUB PROFILE README                 ║
-║   Built to be updated. Every section has an update guide above it. ║
+║   Built to be updated. Every section has an update guide above.   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -10,16 +10,17 @@
   Each line= is one phrase the animation cycles through.
   Add/remove lines freely.
 ======================================================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0d1117,50:00d4ff,100:0d1117&text=Ibtisam%20Adnan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Enthusiast&descAlignY=58&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Computer+Science+Enthusiast+%F0%9F%92%BB;Problem+Solver+%7C+Lifelong+Learner+%F0%9F%A7%A0;Learning+one+line+of+code+at+a+time...;Always+building.+Always+breaking.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=3000\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&width=700\&lines=Computer+Science+Enthusiast+%F0%9F%92%BB;Problem+Solver+%7C+Lifelong+Learner+%F0%9F%A7%A0;Learning+one+line+of+code+at+a+time...;Always+building.+Always+breaking.+Always+learning.)](https://git.io/typing-svg)
 
 <!-- Badges — auto-update, no action needed -->
-![Profile Views](https://komarev.com/ghpvc/?username=ibtisam345&label=Profile+Views&color=00d4ff&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ibtisam345?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/ibtisam345?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibtisam345\&label=Profile+Views\&color=00d4ff\&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ibtisam345?label=Followers\&style=for-the-badge\&color=00d4ff\&labelColor=0d1117)
 
 </div>
 
@@ -32,6 +33,7 @@
   - Change "motto" anytime you feel like it
   The text block below it is for a human-readable intro.
 ======================================================== -->
+
 ## 🧑‍💻 About Me
 
 ```python
@@ -57,6 +59,7 @@ I enjoy learning programming by **actually building things**, solving problems, 
   Example: i=c,python,html,git,github,vscode,linux,css
   The icons auto-render — no image uploads needed.
 ======================================================== -->
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -70,55 +73,28 @@ I enjoy learning programming by **actually building things**, solving problems, 
 <div align="center">
 
 <!-- Individual styled badges — add more as you learn new tools -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
 
 ---
 
 <!-- ========================================================
-  GITHUB STATS — Fully automated. No updates needed.
-  They pull live data from your GitHub profile.
+  GITHUB STATS — Fully automated.
+  Streak pulls live data from your GitHub profile.
 ======================================================== -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibtisam345&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=ibtisam345&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtisam345&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="42%" />
-
-</div>
-
----
-
-<!-- ========================================================
-  TROPHIES — Automated. Updates as you hit milestones.
-======================================================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibtisam345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ========================================================
-  CONTRIBUTION GRAPH — Automated live graph.
-======================================================== -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibtisam345&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://streak-stats.demolab.com/?user=ibtisam345&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e6e&currStreakLabel=00d4ff" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -131,6 +107,7 @@ I enjoy learning programming by **actually building things**, solving problems, 
   or just replace it with what you're learning next.
   The tree format is just text — edit freely.
 ======================================================== -->
+
 ## 📚 Currently Learning
 
 ```text
@@ -139,35 +116,23 @@ C Programming
 ├── Functions & modular thinking
 ├── Arrays, strings & memory concepts
 └── Fundamental programming patterns
-
-Python
-├── Core syntax & control flow
-├── Functions & file handling
-└── Building small CLI programs
-
-Computer Science Foundations
-├── Algorithms & complexity
-├── Data structures (arrays, stacks, queues)
-└── How software actually works under the hood
 ```
 
 ---
 
 <!-- ========================================================
   FEATURED PROJECTS — UPDATE AS YOU BUILD THINGS.
-  Replace "Coming Soon" rows with your real projects.
+  Replace or add projects as your portfolio grows.
   Format: | [Name](link) | Short description | Language |
-  Add/remove rows as needed.
 ======================================================== -->
+
 ## 📌 Featured Projects
 
 <div align="center">
 
-| Project | Description | Language |
-| :-----: | :---------- | :------: |
-| 🚧 **Coming Soon** | First project — dropping soon | — |
-| 🚧 **Coming Soon** | Something I built and learned from | — |
-| 🚧 **Coming Soon** | A project I'm proud of | — |
+|                                              Project                                             | Description                                                                                                                                          | Language |
+| :----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+| **[W3Resource C Programming Solutions](https://github.com/ibtisam345/w3resource-c-programming)** | My solutions to the W3Resource C Programming Exercises, documenting my progress as I strengthen programming fundamentals and problem-solving skills. |     C    |
 
 </div>
 
@@ -178,24 +143,25 @@ Computer Science Foundations
   Keep it honest and specific — recruiters and collaborators
   appreciate clarity over buzzwords.
 ======================================================== -->
+
 ## 🚀 What I'm Working Toward
 
 **Programming fundamentals → Problem solving → Real projects → CS foundations**
 
 My current priorities:
 
-- 🔭 Solidifying **C & Python** fundamentals through practice
-- 🌱 Exploring **Data Structures & Algorithms**
-- 💡 Building small projects to apply what I learn
-- 📖 Understanding how computers *actually* work under the hood
+* 🔭 Solidifying **C & Python** fundamentals through practice
+* 🌱 Exploring **Data Structures & Algorithms**
+* 💡 Building small projects to apply what I learn
+* 📖 Understanding how computers *actually* work under the hood
 
 ---
 
 <!-- ========================================================
   SNAKE — Requires a one-time GitHub Actions setup.
-  Full instructions in the comment block at the bottom
-  of this file. Once set up, it auto-updates forever.
+  Once set up, it auto-updates.
 ======================================================== -->
+
 ## 🐍 Contributions
 
 <div align="center">
@@ -210,6 +176,7 @@ My current priorities:
   PHILOSOPHY — Change this quote anytime.
   Keep it something you genuinely believe in.
 ======================================================== -->
+
 ## 💭 Developer Philosophy
 
 <div align="center">
@@ -226,11 +193,13 @@ My current priorities:
   LinkedIn, Twitter/X, personal site, email, etc.
   Badge generator: https://shields.io
 ======================================================== -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ibtisam345-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibtisam345)
+[![GitHub](https://img.shields.io/badge/GitHub-ibtisam345-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ibtisam345)
+
 <!-- Add more badges here as you join platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
@@ -249,7 +218,7 @@ My current priorities:
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
-SNAKE ANIMATION SETUP (one-time, takes 2 minutes)
+SNAKE ANIMATION SETUP
 ════════════════════════════════════════════════════════════════
 
 1. In your profile repo (ibtisam345/ibtisam345), create this file:
@@ -269,7 +238,9 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate contribution snake
         uses: Platane/snk@v3
@@ -289,6 +260,6 @@ jobs:
 ───────────────────────────────────────────────────────────────
 
 3. Run the workflow once manually from the Actions tab.
-4. Done — it runs every 12 hours automatically after that.
+4. Done — it runs every 12 hours automatically.
 
 ════════════════════════════════════════════════════════════════ -->
