@@ -19,7 +19,6 @@
 
 <!-- Badges — auto-update, no action needed -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibtisam345\&label=Profile+Views\&color=00d4ff\&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ibtisam345?label=Followers\&style=for-the-badge\&color=00d4ff\&labelColor=0d1117)
 
 </div>
